@@ -100,5 +100,7 @@ print('Your name is {0} {1}'.format(first_name, last_name))
 
 print(f'My name is {first_name} {last_name}')
 
-for i in range(1, len(first_name)):
-    print(i)
+element1 = 'fire'
+element2 = 'water'
+
+print(f'That Pokemon is {element1} and {element2}')

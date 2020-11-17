@@ -4,10 +4,14 @@
 # - sorting
 # - sum, min, max
 
-empty = []
-print(empty)
+# empty = []
+# print(empty)
 
-friends = ["Sammy", "Dean", "Castiel", "Bobby", "Crowley", "Chuck", "Jack"]
-print(friends)
+# friends = ["Sammy", "Dean", "Castiel", "Bobby", "Crowley", "Chuck", "Jack"]
+# print(friends)
 
-print(friends[2]) 
+# print(friends[2]) 
+
+def split(word):
+    return [char for char in word]
+
